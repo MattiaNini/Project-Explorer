@@ -1,0 +1,12 @@
+.Activity {
+  display: flex;
+  align-items: center;
+
+  font-family: "Courier New", Courier, monospace;
+
+  img {
+    width: 20%;
+    height: 300px;
+    object-fit: cover;
+  }
+}
